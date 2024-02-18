@@ -1,0 +1,11 @@
+name: LastLifeKeepInventory
+version: '${project.version}'
+main: me.dacosysheeep.lastlifekeepinventory.LastLifeKeepInventory
+api-version: '1.19'
+prefix: LastLifeKeepInventory
+authors: [DaCosySheeep]
+description: Keep inventory for Last Life plugin by Xcalibur8
+website: https://dacosysheeep.me
+depend:
+  - PlaceholderAPI
+  - LastLife
